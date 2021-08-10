@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 - Run git clone `https://github.com/den-cloud/HelloMircoverse.git`
-- `cd HTML`
+- `cd hello-microverse`
 
 ## Author
 
