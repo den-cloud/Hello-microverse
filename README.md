@@ -29,9 +29,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Denzel Thandolwenkosi Nkomo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@den-cloud](https://github.com/den-cloud)
+- Twitter: [@nkomo_dt](https://twitter.com/nkomo_dt)
+- LinkedIn: [Denzel Thandolwenkosi Nkomo](https://www.linkedin.com/in/denzel-thandolwenkosi-nkomo-a424aa177/)
 
 ## 🤝 Contributing
 
@@ -39,7 +39,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/den-cloud/HelloMircoverse/issues).
 
-## Show your support
+## Show your support 
 
 Give a ⭐️ if you like this project!
 
